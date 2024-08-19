@@ -18,4 +18,11 @@ lista = [1,2,3,4,5,6]
 lista_reversa = lista.reverse
 print(lista_reversa)
 
+#multiplicando por pi
+Pi_idade = idade * 3
+print(Pi_idade)
+
+
+
+
 
