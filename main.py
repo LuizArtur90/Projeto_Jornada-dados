@@ -22,6 +22,9 @@ print(lista_reversa)
 Pi_idade = idade * 3
 print(Pi_idade)
 
+#testando alteração no cod python
+print(idade)
+
 
 
 
