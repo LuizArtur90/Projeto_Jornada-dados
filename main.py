@@ -16,4 +16,6 @@ lista = [1,2,3,4,5,6]
 
 #Métodos
 lista_reversa = lista.reverse
+print(lista_reversa)
+
 
